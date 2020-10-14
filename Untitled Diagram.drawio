@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T12:00:11.397Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="cKKY7fwbIgnFGsapx5PU" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T12:35:41.820Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="v1ncdvwAXoq4eRjiFDEO" version="13.7.9" type="github">
   <diagram id="JPElbBWOqCpzy2jqANNV" name="Page-1">
     <mxGraphModel dx="2701" dy="1485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
         <mxCell id="53TkpjcJYswqjHcz694U-140" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="53TkpjcJYswqjHcz694U-139">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="53TkpjcJYswqjHcz694U-141" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="53TkpjcJYswqjHcz694U-139">
+        <mxCell id="53TkpjcJYswqjHcz694U-141" value="登録日時" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="53TkpjcJYswqjHcz694U-139">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="53TkpjcJYswqjHcz694U-272" value="(E)ユーザーのタレント登録" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
